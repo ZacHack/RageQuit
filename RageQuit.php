@@ -3,7 +3,7 @@
 /*
 __Pocketmine Plugin__
 name=RageQuit
-version=0.2.1
+version=0.2.2
 author=ZacHack
 class=Rage
 apiversion=9, 10
